@@ -16,7 +16,7 @@
     "@types/nprogress": "0.2.0",
     "@types/parsimmon": "^1.10.2",
     "ajv": "^6.12.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap-vue": "^2.15.0",
     "cwait": "^1.1.2",
     "lodash": "^4.17.20",
